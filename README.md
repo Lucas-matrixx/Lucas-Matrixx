@@ -3,11 +3,11 @@
 **`Estudante de Ciência de Dados | Futuro Analista & Engenheiro de Dados`**
 
 ### 💻 Sobre mim
-- 📍 São Paulo, Brasil  
-- 🎓 Estudando **Ciência de Dados para Negócios** pela **FATEC IPIRANGA**  
-- 💡 Aprendendo a transformar dados em informações, e informações em soluções estratégicas
-- 🚀 Buscando oportunidades para aplicar e expandir minhas habilidades em análise de dados e programação  
 
+- 🚀 Buscando oportunidades para aplicar e expandir minhas habilidades em análise de dados e programação  
+- 💡 Aprendendo a transformar dados em informações, e informações em soluções estratégicas
+- 🎓 Estudando **Ciência de Dados para Negócios** pela **FATEC IPIRANGA**  
+- 📍 São Paulo, Brasil  
 
 <!--Bagdes-->
 <p align="left">
