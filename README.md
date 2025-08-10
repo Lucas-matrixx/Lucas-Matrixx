@@ -16,20 +16,9 @@
 
 ---
 
-</a>
-
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&layout=compact&theme=tokyonight&custom_title=Tecnologias" alt="Linguagens mais usadas" height="180em"/>
-</p>
-
----
 
 ### 🤖 Tecnologias e Ferramentas 
-<p align="left">
   <!-- Linguagens -->
-  
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -40,9 +29,20 @@
   <img align="left" alt="git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/Lucas-matrixx/pasta-icons-para-readme/refs/heads/main/github-color-svgrepo-com.svg?token=GHSAT0AAAAAADG4LB4YWRYVX5VYHAENUNZS2EY7KLQ"/>
   <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
-
 </p>
+
+</br>
+</br>
+
+### 📊 Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&theme=tokyonight&custom_title=Tecnologias&exclude_repo=github-readme-stats,Lucas-matrixx.github.io)" />
+  
+</p>
+
+---
+
 
 
 
