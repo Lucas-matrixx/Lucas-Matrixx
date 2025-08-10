@@ -27,7 +27,7 @@
   <img align="left" alt="Postgree" title="PostgreeSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Sqlserver" title="Sqlserver" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="left" alt="git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/Lucas-matrixx/pasta-icons-para-readme/refs/heads/main/github-color-svgrepo-com.svg?token=GHSAT0AAAAAADG4LB4YWRYVX5VYHAENUNZS2EY7KLQ"/>
+  <img align="left" alt="github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/Lucas-matrixx/pasta-icons-para-readme/refs/heads/main/github-color-svgrepo-com.svg?token=GHSAT0AAAAAADG4LB4YMFFI2QUICFM6BLPI2EZANNA"/>
   <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
