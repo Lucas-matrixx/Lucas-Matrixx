@@ -11,10 +11,8 @@
 
 <!--Bagdes-->
 <p align="left">
-  
- <a href="https://github.com/ForrestKnight?tab=followers">
-          <img src="https://custom-icon-badges.demolab.com/badge/Follow-GitHub-236ad3?labelColor=1155ba&style=for-the-badge&logo=person-add&logoColor=white" alt="Follow on GitHub"/>
- 
+  <a href="https://github.com/Lucas-matrixx?tab=followers"><img src="https://custom-icon-badges.demolab.com/badge/Follow-GitHub-FF6200?labelColor=CC4D00&style=for-the-badge&logo=person-add&logoColor=white" alt="Follow on GitHub"/> </a>
+  <a href="https://www.linkedin.com/in/lucas-rodrigues-pinho-10b8b7358"><img src="https://custom-icon-badges.demolab.com/badge/Follow-LinkedIn-0077B5?labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/> </a>
 
 ---
 
@@ -40,7 +38,7 @@
   <img align="left" alt="Postgree" title="PostgreeSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Sqlserver" title="Sqlserver" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="left" alt="git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="github" title="GitHub" width="30px" style="padding-right: 10px;" src= "https://raw.githubusercontent.com/Lucas-matrixx/pasta-icons-para-readme/refs/heads/main/github-color-svgrepo-com.svg?token=GHSAT0AAAAAADG4LB4YHESZGSAZLHAFAAZW2EY5YOA" />
+  <img align="left" alt="github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/Lucas-matrixx/pasta-icons-para-readme/refs/heads/main/github-color-svgrepo-com.svg?token=GHSAT0AAAAAADG4LB4YWRYVX5VYHAENUNZS2EY7KLQ"/>
   <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  
 
