@@ -11,9 +11,10 @@
 
 <!--Bagdes-->
 <p align="left">
+  <a href="lucasmatrixpinho060822@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-Contact-26A69A?labelColor=00695C&style=for-the-badge&logo=mail&logoColor=white" alt="Contact via Email"/></a>
   <a href="https://github.com/Lucas-matrixx?tab=followers"><img src="https://custom-icon-badges.demolab.com/badge/Follow-GitHub-FF6200?labelColor=CC4D00&style=for-the-badge&logo=person-add&logoColor=white" alt="Follow on GitHub"/> </a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-pinho-10b8b7358"><img src="https://custom-icon-badges.demolab.com/badge/Follow-LinkedIn-0077B5?labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/> </a>
-
+  
 ---
 
 
