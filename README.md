@@ -1,6 +1,6 @@
 # 🎓 Lucas Rodrigues Pinho
 
-**`Estudante de Ciência de Dados | Futuro Analista de Dados`**
+**`Estudante de Big Data para Negócios | Futuro Analista de Dados`**
 
 ### 💻 Sobre mim
 
