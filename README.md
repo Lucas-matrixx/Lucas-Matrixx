@@ -1,12 +1,12 @@
 # 🎓 Lucas Rodrigues Pinho
 
-**`Estudante de Ciência de Dados | Futuro Analista & Engenheiro de Dados`**
+**`Estudante de Ciência de Dados | Futuro Analista de Dados`**
 
 ### 💻 Sobre mim
 
 - 🚀 Buscando oportunidades para aplicar e expandir minhas habilidades em análise de dados e programação  
 - 💡 Aprendendo a transformar dados em informações, e informações em soluções estratégicas
-- 🎓 Estudando **Ciência de Dados para Negócios** pela **FATEC IPIRANGA**  
+- 🎓 Estudando **Big Data para Negócios** pela **FATEC IPIRANGA**  
 - 📍 São Paulo, Brasil  
 
 <!--Bagdes-->
