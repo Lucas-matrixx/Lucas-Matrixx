@@ -7,7 +7,7 @@
 - 🚀 Buscando oportunidades para aplicar e expandir minhas habilidades em análise de dados e programação  
 - 💡 Aprendendo a transformar dados em informações, e informações em soluções estratégicas
 - 🎓 Estudando **Big Data para Negócios** pela **FATEC IPIRANGA**  
-- 📍 São Paulo, Brasil  
+- 📍 São Paulo, SP - Brasil  
 
 <!--Bagdes-->
 <p align="left">
