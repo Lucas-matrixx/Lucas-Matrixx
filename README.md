@@ -35,12 +35,12 @@
 </br>
 </br>
 
-### 📊 Estatísticas do GitHub
+<!--<### 📊 Estatísticas do GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&theme=tokyonight&custom_title=Tecnologias&exclude_repo=github-readme-stats,Lucas-matrixx.github.io)" />
   
-</p>
+</p>-->
 
 ---
 
