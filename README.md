@@ -50,37 +50,30 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 🛠 Tecnologias
+## 🛠️ Tecnologias
 
 ### 📊 Data Science
-
-![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-00ff41?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-00ff41?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-00ff41?style=for-the-badge)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ### 📈 Data Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-00ff41?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-00ff41?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-00ff41?style=for-the-badge)
-
----
-
-### 🗄 Banco de Dados
-
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
----
-
-### 💻 Desenvolvimento
-
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+### 🗄️ Banco de Dados & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -96,40 +89,16 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Lucas-matrixx&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Conquistas GitHub
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lucas-matrixx&theme=matrix&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Gráfico de Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-matrixx&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Contato
 
 <p align="center">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-00ff41?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0090FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contato-00ff41?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contato-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
