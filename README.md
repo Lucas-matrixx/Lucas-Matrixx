@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lucas-matrixx&label=Profile%20views&color=00ff41&style=flat"/>
+<img src="https://raw.githubusercontent.com/Lucas-matrixx/assets/main/oracle-one-badge.png" width="200px">
 </p>
 
 ---
