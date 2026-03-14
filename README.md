@@ -119,7 +119,15 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> **“Foco é ter uma parte da sua visão mais nítida do que todo o resto.
-Se o restante não está nítido, é porque não é importante.”**
+---
+
+<p align="center">
+
+> ***“Foco é ter uma parte da sua visão mais nítida do que todo o resto.***
+> *Se o restante não está nítido, é porque não é importante."*
+
+</p>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer&animation=fadeIn"/>
