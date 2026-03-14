@@ -7,6 +7,16 @@
 
 ---
 
+## 🎵 O que estou ouvindo agora
+
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=314aukptm33i3gyuy5k3fz4ci3uu&unique=true"/>
+</p>
+
+<p align="center">
+<i>Música também faz parte do processo de aprender, programar e criar.</i>
+</p>
+
 Olá! Eu sou **Lucas Rodrigues** 👨‍💻  
 
 🎓 Estudante de **Big Data para Negócios**  
@@ -34,36 +44,51 @@ Meu objetivo é me tornar um **Analista de Dados / Cientista de Dados** capaz de
 
 # 🚀 Projetos em Destaque
 
-📊 **Análise de Churn de Clientes**  
+> **[Análise de Churn de Clientes - Scikit-Learn](https://github.com/Lucas-matrixx/TelecomX-_Parte2_Prevendo_Churn)**  
 Projeto de Machine Learning para prever evasão de clientes utilizando Python.
 
-📈 **Análise de Vendas com Python**  
+> **[Análise de Vendas com Python e Streamlit](https://github.com/Lucas-matrixx/dashboard-streamlit-analise-de-dados)**  
 Exploração de dados e geração de insights estratégicos através de visualizações.
 
-🗄 **Modelagem de Banco de Dados Hospitalar**  
+> **[Análise Exploratória de Evasões (EDA) - TelecomX](https://github.com/Lucas-matrixx/TelecomX_Parte1_Analisando_Churn_EDA)**  
 Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-## 🛠️ Tecnologias
+# 🏆 Certificações
 
-### 📊 Data Science
-<p align="left">
+<p align="center">
+
+<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/AWSblob.png" width="180px">
+
+<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/BAdge.webp" width="180px">
+
+<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/Badge%20ONE.png" width="180px">
+
+<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp" width="180px">
+
+<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/bagde3.webp" width="180px">
+
+</p>
+
+---
+
+# 🛠️ Tecnologias
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### 📈 Data Visualization
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### 🗄️ Banco de Dados & Ferramentas
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -103,5 +128,8 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+> **“Foco é ter uma parte da sua visão mais nítida do que todo o resto.
+Se o restante não está nítido, é porque não é importante.”**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer&animation=fadeIn"/>
