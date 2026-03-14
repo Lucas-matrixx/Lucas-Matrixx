@@ -7,16 +7,6 @@
 
 ---
 
-## 🎵 O que estou ouvindo agora
-
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=314aukptm33i3gyuy5k3fz4ci3uu&unique=true"/>
-</p>
-
-<p align="center">
-<i>Música também faz parte do processo de aprender, programar e criar.</i>
-</p>
-
 Olá! Eu sou **Lucas Rodrigues** 👨‍💻  
 
 🎓 Estudante de **Big Data para Negócios**  
@@ -113,11 +103,11 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 <p align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucasrods/">
 <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0090FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:lucasmatrixpinho060822@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contato-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
