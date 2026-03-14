@@ -107,8 +107,8 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0090FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:lucasmatrixpinho060822@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:lucamatrixpinho060822@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
