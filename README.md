@@ -125,6 +125,8 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 > ***“Foco é ter uma parte da sua visão mais nítida do que todo o resto.***
 > *Se o restante não está nítido, é porque não é importante."*
+> 
+> ***Dr.Lee***
 
 </p>
 
