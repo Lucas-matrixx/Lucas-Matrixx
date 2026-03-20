@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:00ff41&height=200&section=header&text=꧁ঔৣ☬+Lucas+Rodrigues+☬ঔৣ꧂&fontColor=00ff41&fontSize=45&animation=twinkling"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=28&center=true&vCenter=true&width=1000&lines=Wake+up,+Lucas...;The+Matrix+has+you...;Follow+the+data.;This+is+the+Matrix;Welcome+to+my+GitHub;Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;Transformando+dados+em+insights" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=28&center=true&vCenter=true&width=1000&lines=Wake+up,+Neo...;The+Matrix+has+you...;Follow+the+data.;This+is+the+Matrix;Welcome+to+my+GitHub;Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;Transformando+dados+em+insights" />
 </p>
 
 
