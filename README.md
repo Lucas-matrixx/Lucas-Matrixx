@@ -12,12 +12,12 @@ Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics*
 ### 🎓 Formação
 - **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2028)*
 
-
+### Áreas de Interesse
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
 </div>
 
-# Projetos Em Destaque
+## Projetos Em Destaque
 
 > **[Análise de Churn de Clientes - Scikit-Learn](https://github.com/Lucas-matrixx/TelecomX-_Parte2_Prevendo_Churn)**  
 Projeto de Machine Learning para prever evasão de clientes utilizando Python.
@@ -32,7 +32,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
 </div>
 
-# 🏆 Certificações
+## 🏆 Certificações
 
 <table align="center">
   <tr>
@@ -83,7 +83,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
 </div>
 
-# Minhas Ferramentas e Tecnologias Favoritas
+## Minhas Ferramentas e Tecnologias Favoritas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -107,7 +107,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
@@ -119,7 +119,9 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 🌐 Vamos trocar ideias!
+## 🌐 Vamos trocar ideias!
+
+Estou sempre aberto para colaborações, networking e novas oportunidades!
 
 <p align="center">
 
@@ -129,6 +131,10 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 <a href="mailto:lucamatrixpinho060822@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5511940735168">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27" />
 </a>
 
 </p>
@@ -146,7 +152,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 > ***“Foco é ter uma parte da sua visão mais nítida do que todo o resto.***
 > *Se o restante não está nítido, é porque não é importante."*
 > 
-> ***Dr.Lee***
+
 
 </p>
 
