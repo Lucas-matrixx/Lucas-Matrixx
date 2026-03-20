@@ -32,7 +32,7 @@ Meu objetivo é me tornar um **Analista de Dados / Cientista de Dados** capaz de
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos Em Destaque
 
 > **[Análise de Churn de Clientes - Scikit-Learn](https://github.com/Lucas-matrixx/TelecomX-_Parte2_Prevendo_Churn)**  
 Projeto de Machine Learning para prever evasão de clientes utilizando Python.
@@ -63,7 +63,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ As Minhas Tecnologias Preferidas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -99,7 +99,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 ---
 
-# 🌐 Contato
+# 🌐 Vamos trocar ideias!
 
 <p align="center">
 
