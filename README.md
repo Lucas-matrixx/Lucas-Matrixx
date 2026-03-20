@@ -49,15 +49,25 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 <p align="center">
 
-<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/AWSblob.png" width="180px">
+<a href="https://www.credly.com/badges/7c89f813-b89a-4252-93ba-d3b0d60419c4/public_url" target="_blank">
+  <img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/AWSblob.png" width="180px">
+</a>
 
-<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/BAdge.webp" width="180px">
+<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-estat%C3%ADstica-e-machine-learning-grupo9-one-999476/certificate" target="_blank">
+  <img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/BAdge.webp" width="180px">
+</a>
 
-<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/Badge%20ONE.png" width="180px">
+<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-logica-de-programacao-grupo9-one-951785/certificate" target="_blank">
+  <img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/Badge%20ONE.png" width="180px">
+</a>
 
-<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp" width="180px">
+<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-fundamentos-de-python-e-dados-grupo9-one-999426/certificate" target="_blank">
+  <img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp" width="180px">
+</a>
 
-<img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/bagde3.webp" width="180px">
+<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-etl-com-pandas-grupo9-one-999478/certificate" target="_blank">
+  <img src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/bagde3.webp" width="180px">
+</a>
 
 </p>
 
