@@ -12,7 +12,6 @@ Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics*
 ### 🎓 Formação
 - **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2028)*
 
-### Áreas de Interesse
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
 </div>
@@ -105,19 +104,24 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=chartreuse-dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&layout=compact&theme=chartreuse-dark"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=chartreuse-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&layout=compact&theme=chartreuse-dark"/>
 </p>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
 
 ## 🌐 Vamos trocar ideias!
 
@@ -125,37 +129,43 @@ Estou sempre aberto para colaborações, networking e novas oportunidades!
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lucasrods/">
-<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0090FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/lucasrods/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-008BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:lucamatrixpinho060822@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-FF0037?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contato-D62828?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511940735168">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27" />
+<a href="https://api.whatsapp.com/send?phone=5511940735168" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Conectar-48A111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+</p>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <i>
+    “Foco é ter uma parte da sua visão mais nítida do que todo o resto.
+    Se o restante não está nítido, é porque não é importante.”
+  </i>
 </p>
 
 ---
 
 <p align="center">
-
-> ***“Foco é ter uma parte da sua visão mais nítida do que todo o resto.***
-> *Se o restante não está nítido, é porque não é importante."*
-> 
-
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR2M21ocW96cnJiMmtlbm10a2ZuMDZvbjViaTRkMzlqejZldHh3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width=100% />
 </p>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer&animation=fadeIn"/>
