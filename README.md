@@ -5,34 +5,19 @@
 </p>
 
 
----
+### Sobre Mim
+Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics** e **Machine Learning**. Atualmente, procuro atuar como **Profissional de Dados** e dedico-me a projetos que solucionam **Problemas Reais de Negócios** e à especialização em arquitetura de nuvem. Gosto de trabalhar com **análise exploratória, modelagem de dados e machine learning**.
 
-Olá! Eu sou **Lucas Rodrigues** 👨‍💻  
 
-🎓 Estudante de **Big Data para Negócios**  
-📊 Focado em **Análise de Dados e Machine Learning**  
-🚀 Buscando transformar dados em **insights estratégicos**
+### 🎓 Formação
+- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2028)*
 
----
 
-# 🧠 Sobre mim
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
 
-Tenho grande interesse em resolver problemas reais através de dados.  
-Gosto de trabalhar com **análise exploratória, modelagem de dados e machine learning**.
-
-Atualmente estou desenvolvendo projetos envolvendo:
-
-📊 Análise Exploratória de Dados (EDA)  
-🤖 Machine Learning  
-📈 Visualização de Dados  
-🗄 Modelagem de Banco de Dados  
-📉 Análise de comportamento de clientes  
-
-Meu objetivo é me tornar um **Analista de Dados / Cientista de Dados** capaz de gerar impacto real em decisões de negócio.
-
----
-
-# 🚀 Projetos Em Destaque
+# Projetos Em Destaque
 
 > **[Análise de Churn de Clientes - Scikit-Learn](https://github.com/Lucas-matrixx/TelecomX-_Parte2_Prevendo_Churn)**  
 Projeto de Machine Learning para prever evasão de clientes utilizando Python.
@@ -43,7 +28,9 @@ Exploração de dados e geração de insights estratégicos através de visualiz
 > **[Análise Exploratória de Evasões (EDA) - TelecomX](https://github.com/Lucas-matrixx/TelecomX_Parte1_Analisando_Churn_EDA)**  
 Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
----
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
 
 # 🏆 Certificações
 
@@ -71,9 +58,11 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 </p>
 
----
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
+</div>
 
-# 🛠️ As Minhas Tecnologias Preferidas
+# Minhas Ferramentas e Tecnologias Favoritas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
