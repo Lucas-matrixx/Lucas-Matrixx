@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:00ff41&height=200&section=header&text=Lucas%20Rodrigues&fontColor=00ff41&fontSize=50&animation=twinkling"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=28&center=true&vCenter=true&width=1000&lines=Wake+up,+Lucas...;The+Matrix+has+you...;Follow+the+data.;Essa%20%C3%A9%20a%20Matrix;Welcome+to+my+GitHub;Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;Transformando+dados+em+insights" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=28&center=true&vCenter=true&width=1000&lines=Wake+up,+Lucas...;The+Matrix+has+you...;Follow+the+data.;This+is+the+Matrix;Welcome+to+my+GitHub;Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;Transformando+dados+em+insights" />
 </p>
 
 
@@ -34,84 +34,50 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 # 🏆 Certificações
 
-<table>
+<table align="center">
   <tr>
-    <td width="20%" align="center" valign="top">
-      <img 
-        width="185" 
-        alt="AWS Cloud Practitioner" 
-        src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/AWSblob.png" 
-      />
-      <br/><br/>
-      <strong>AWS</strong><br/>
+    <td align="center" width="20%">
+      <a href="https://www.credly.com/badges/7c89f813-b89a-4252-93ba-d3b0d60419c4/public_url" target="_blank">
+        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/AWSblob.png"/>
+      </a>
+      <br><br>
+      <strong>AWS</strong><br>
       <sub>AWS Cloud Foundations Trained</sub>
     </td>
-    <td width="20%" align="center" valign="top">
-      <img 
-        width="180" 
-        alt="Google Cloud Gemini"
-        src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/BAdge.webp" 
-      />
-      <br/><br/>
-      <strong>Oracle Next Education</strong><br/>
-      <sub>Estatistica e Machine Learning</sub>
+    <td align="center" width="20%">
+      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-estat%C3%ADstica-e-machine-learning-grupo9-one-999476/certificate" target="_blank">
+        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/BAdge.webp"/>
+      </a>
+      <br><br>
+      <strong>Oracle Next Education</strong><br>
+      <sub>Estatística e Machine Learning</sub>
     </td>
-    <td width="20%" align="center" valign="top">
-      <img 
-        width="180" 
-        alt="Estatistica e ML"
-        src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/Badge%20ONE.png" 
-      />
-      <br/><br/>
-      <strong>Oracle Next Education</strong><br/>
+    <td align="center" width="20%">
+      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-logica-de-programacao-grupo9-one-951785/certificate" target="_blank">
+        <img width="185" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/Badge%20ONE.png"/>
+      </a>
+      <br><br>
+      <strong>Oracle Next Education</strong><br>
       <sub>Fundamentos da Programação Web</sub>
     </td>
-    <td width="20%" align="center" valign="top">
-      <img 
-        width="180" 
-        alt="Cisco Maratona"
-        src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/bagde3.webp" 
-      />
-      <br/><br/>
-      <strong>Oracle Next Education</strong><br/>
-      <sub> ETL com Python (Extração, Transformação e Carga de Dados)</sub>
+    <td align="center" width="20%">
+      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-etl-com-pandas-grupo9-one-999478/certificate" target="_blank">
+        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/bagde3.webp"/>
+      </a>
+      <br><br>
+      <strong>Oracle Next Education</strong><br>
+      <sub>ETL com Pandas</sub>
     </td>
-    <td width="20%" align="center" valign="top">
-      <img 
-        width="180" 
-        alt="Cisco Maratona"
-        src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp" 
-      />
-      <br/><br/>
-      <strong>Oracle Next Education</strong><br/>
-      <sub>Python para Dados: análise e transformação de dados</sub>
+    <td align="center" width="20%">
+      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-fundamentos-de-python-e-dados-grupo9-one-999426/certificate" target="_blank">
+        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp"/>
+      </a>
+      <br><br>
+      <strong>Oracle Next Education</strong><br>
+      <sub>Python para Análise e Transformação de Dados</sub>
     </td>
   </tr>
 </table>
-
-<p align="center">
-
-<a href="https://www.credly.com/badges/7c89f813-b89a-4252-93ba-d3b0d60419c4/public_url" target="_blank">
-  <img src="" width="180px">
-</a>
-
-<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-estat%C3%ADstica-e-machine-learning-grupo9-one-999476/certificate" target="_blank">
-  <img src="" width="180px">
-</a>
-
-<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-logica-de-programacao-grupo9-one-951785/certificate" target="_blank">
-  <img src="" width="180px">
-</a>
-
-<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-fundamentos-de-python-e-dados-grupo9-one-999426/certificate" target="_blank">
-  <img src="" width="180px">
-</a>
-
-<a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-etl-com-pandas-grupo9-one-999478/certificate" target="_blank">
-  <img src="" width="180px">
-</a>
-
-</p>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
