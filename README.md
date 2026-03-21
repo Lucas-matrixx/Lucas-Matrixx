@@ -7,7 +7,7 @@
 
 
 ## Sobre Mim
-Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics** e **Machine Learning**. Atualmente, procuro atuar como **Profissional de Dados** e dedico-me a projetos que solucionam **Problemas Reais de Negócios** e à aprofundar meu conhecimentos em arquitetura de nuvem.
+Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics** e **Machine Learning**. Atualmente, procuro atuar como **Profissional de Dados**, dedico-me a projetos que solucionam **Problemas Reais de Negócios** e à aprofundar meu conhecimentos em arquitetura de nuvem.
 
 
 ### 🎓 Formação
