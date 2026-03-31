@@ -126,7 +126,7 @@ Projeto de modelagem relacional aplicado a um sistema hospitalar.
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucas-matrixx&show_icons=true&theme=chartreuse-dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-matrixx&layout=compact&theme=chartreuse-dark"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Lucas-matrixx&theme=chartreuse-dark"/>
 </p>
 
 <p align="center">
