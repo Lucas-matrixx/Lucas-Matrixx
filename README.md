@@ -39,7 +39,7 @@ Projeto de Machine Learning para prever evasão de clientes utilizando Python.
 Exploração de dados e geração de insights estratégicos através de visualizações.
 
 > **[Análise Exploratória de Evasões (EDA) - TelecomX](https://github.com/Lucas-matrixx/TelecomX_Parte1_Analisando_Churn_EDA)**  
-Projeto de modelagem relacional aplicado a um sistema hospitalar.
+Projeto de Análise Exploratória de Dados (EDA) desenvolvido com o objetivo de investigar padrões associados à evasão de clientes (churn) na empresa fictícia TelecomX.
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsxNnR0YXpkaHd3M3F3OG00bGdjbXEyZnl4bnEyMzhjYzR6cmd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width=100% height=30px>
