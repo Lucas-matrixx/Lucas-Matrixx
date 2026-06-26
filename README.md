@@ -92,7 +92,7 @@ Projeto de Análise Exploratória de Dados (EDA) desenvolvido com o objetivo de 
   </tr>
   <tr>  
      <td align="center" width="20%">
-      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-fundamentos-de-python-e-dados-grupo9-one-999426/certificate" target="_blank">
+      <a href="<img width="552" height="276" alt="OCI25FNDCFA__1_-removebg-preview" src="https://github.com/user-attachments/assets/d4b724ab-552b-487c-9fc4-4defcfbb2cec" />" target="_blank">
         <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp"/>
       </a>
       <br><br>
