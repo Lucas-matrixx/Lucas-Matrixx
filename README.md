@@ -23,7 +23,7 @@ Estudante de **Big Data** com vivência prática em projetos de **DataAnalytics*
 ---
 
 ### 🚀 Metas
-- **OCI** - Oracle Cloud Infrastructure
+- **OCI** - Oracle Cloud Infrastructure ✅
 - 🇺🇸 Inglês Técnico (Rumo ao nível B2) 
 
 <div align="center">
@@ -95,7 +95,7 @@ Projeto de Análise Exploratória de Dados (EDA) desenvolvido com o objetivo de 
   <tr>  
      <td align="center" width="10%">
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9470C8448688867AD6A9B2C4C6D2EAF8C64C6FE7BEB3CC5843009B91BA4B1310" target="_blank">
-        <img style="width:370px; height:auto;" alt="OCI25FNDCFA__1_-removebg-preview" src="https://github.com/user-attachments/assets/4aa083b7-169d-4599-9029-259df22fbe8f" />
+        <img style="width:310px; height:auto;" alt="OCI25FNDCFA__1_-removebg-preview" src="https://github.com/user-attachments/assets/4aa083b7-169d-4599-9029-259df22fbe8f" />
       </a>
       <br><br>
       <strong>Oracle Cloud Infrastructure Associate</strong><br>
