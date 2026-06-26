@@ -90,6 +90,17 @@ Projeto de Análise Exploratória de Dados (EDA) desenvolvido com o objetivo de 
       <sub>Python para Análise e Transformação de Dados</sub>
     </td>
   </tr>
+  <tr>  
+     <td align="center" width="20%">
+      <a href="https://cursos.alura.com.br/user/lucasmatrixpinho060822/degree-fundamentos-de-python-e-dados-grupo9-one-999426/certificate" target="_blank">
+        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp"/>
+      </a>
+      <br><br>
+      <strong>Oracle Next Education</strong><br>
+      <sub>Python para Análise e Transformação de Dados</sub>
+    </td>
+  
+  </tr>
 </table>
 
 <div align="center">
