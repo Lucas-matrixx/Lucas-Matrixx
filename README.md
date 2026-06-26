@@ -90,16 +90,17 @@ Projeto de Análise Exploratória de Dados (EDA) desenvolvido com o objetivo de 
       <sub>Python para Análise e Transformação de Dados</sub>
     </td>
   </tr>
+</table>
+<table align="center">
   <tr>  
-     <td align="center" width="20%">
-      <a href="<img width="552" height="276" alt="OCI25FNDCFA__1_-removebg-preview" src="https://github.com/user-attachments/assets/d4b724ab-552b-487c-9fc4-4defcfbb2cec" />" target="_blank">
-        <img width="160" src="https://github.com/Lucas-matrixx/Lucas-Matrixx/blob/main/badge2.webp"/>
+     <td align="center" width="10%">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9470C8448688867AD6A9B2C4C6D2EAF8C64C6FE7BEB3CC5843009B91BA4B1310" target="_blank">
+        <img style="width:370px; height:auto;" alt="OCI25FNDCFA__1_-removebg-preview" src="https://github.com/user-attachments/assets/4aa083b7-169d-4599-9029-259df22fbe8f" />
       </a>
       <br><br>
-      <strong>Oracle Next Education</strong><br>
-      <sub>Python para Análise e Transformação de Dados</sub>
+      <strong>Oracle Cloud Infrastructure Associate</strong><br>
+      <sub>OCI Foundations Associate</sub>
     </td>
-  
   </tr>
 </table>
 
